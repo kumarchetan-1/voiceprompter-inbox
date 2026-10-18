@@ -1,0 +1,6 @@
+{
+  "id": "8A9F9F22-3705-517D-B58F-B678C9F893A0",
+  "title": "AI ko browser chalana sikhao",
+  "content": "[HOOK: screen - browser clicking by itself]\nYe browser main nahi chala raha...\nAI chala raha hai.\n\n[SCREEN: github.com/browser-use/browser-use - release 0.13.13 | Oct 15, 2026]\nOpen-source project Browser Use ne...\nOpenAI ke Python SDK ke liye browser tools release kiye.\n\n[GRAPHIC: 18 default browser tools | Source: Browser Use GitHub release 0.13.13]\n18 default browser tools.\nNavigate, click, type... sab ready.\nLocal browser ho ya cloud browser, dono chalenge.\n\n[SCREEN: terminal - pip install \"browser-use[openai-tools]\"]\nSetup simple hai.\nStep one... install the openai-tools extra.\nStep two... OpenAI Python 3.31 ya usse naya.\nStep three... apna task likho, jaise \"price compare karo.\"\n\n[CAM: close-up]\nPar limits bhi jaan lo.\nUploads, downloads aur Bash...\nabhi SUPPORT nahi hain.\nRead the release notes before you build on it.\n\n[CAM: face]\nBuilder tip.\nPehle ek boring repeat task choose karo.\nWahi automate karo. Wahi asli value hai.\n\n[CTA]\nFollow for daily AI, explained by a builder.\n",
+  "createdAt": "2026-10-18T00:54:08Z"
+}
