@@ -1,0 +1,6 @@
+{
+  "id": "EEAB4A0F-205D-5573-9EAA-6618FCC1DB5B",
+  "title": "74B model ab 24GB mein - local AI agent",
+  "content": "[HOOK: face to camera]\n74 BILLION parameter ka model...\nsirf 24GB memory mein.\n\n[SCREEN: blogs.nvidia.com - Nemotron 3.5 Bolt | Oct 15, 2026]\nNVIDIA ne launch kiya hai Nemotron 3.5 Bolt.\nMade for local AI agents.\n\n[GRAPHIC: 74B total | 9B active | 2-bit | fits in 24GB | Source: blogs.nvidia.com]\n74B total parameters...\npar ek time pe sirf 9 BILLION active.\n2-bit compression se ye 24GB mein fit hota hai.\n\n[SCREEN: NVIDIA's own Nemotron visuals | Source: blogs.nvidia.com]\nFor teams with an NVIDIA GPU... ye Ollama pe available hai.\nWeb research, writing, code debugging...\nsab apni machine pe. CLOUD pe kuch nahi jaata.\n\n[CAM: close-up]\nAb ek honest baat.\nOllama ke page pe likha hai...\nApple Silicon abhi SUPPORTED nahi hai.\nYou need an NVIDIA GPU machine for this one.\n\n[CAM: face]\nBusiness ke liye ye bada hai.\nClient ka data bahar nahi jaana chahiye?\nPrivate local agent... ab possible hai.\n\n[CTA]\nDM me 'AI' if you want this for your business.\n",
+  "createdAt": "2026-10-18T00:54:04Z"
+}
