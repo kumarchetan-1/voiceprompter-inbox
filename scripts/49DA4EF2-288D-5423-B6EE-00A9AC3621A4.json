@@ -1,0 +1,6 @@
+{
+  "id": "49DA4EF2-288D-5423-B6EE-00A9AC3621A4",
+  "title": "501B ka open model - free for business",
+  "content": "[HOOK: face to camera, hold up 5 fingers]\n501 BILLION parameters ka model...\naur weights bilkul FREE.\n\n[SCREEN: reflection.ai/blog/beam-is-available | Oct 16, 2026]\nEk naye US lab, Reflection, ne launch kiya hai Beam.\nIts first open-weight model.\n\n[GRAPHIC: 501B total | 23B active | 1M-token context | Source: huggingface.co/blog/reflection-beam]\n501B total parameters...\npar har token pe sirf 23 BILLION active.\nContext window? 1 MILLION tokens.\n\n[GRAPHIC: License: Apache 2.0]\nAur sabse important... license Apache 2.0.\nThat means you can use it commercially.\nCustomize karo, apne servers pe chalao.\n\n[CAM: close-up]\nBuilder ki nazar se dekho.\nYe model coding aur long-running AGENTS ke liye bana hai.\nCompany ka code, company ke servers pe hi rehta hai.\n\n[CAM: face]\nPar reality check.\nYe laptop wala model NAHI hai.\nIt is built for teams with serious hardware.\nPehle API pe test karo... phir self-host ka socho.\n\n[CTA]\nFollow for daily AI, explained by a builder.\n",
+  "createdAt": "2026-10-18T00:54:03Z"
+}
